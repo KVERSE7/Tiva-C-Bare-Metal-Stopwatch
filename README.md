@@ -168,6 +168,4 @@ The terminal should display stopwatch status messages and timing information as 
 4. **Stop:** Press SW1 again to pause the stopwatch.
 5. **Resume:** Press SW1 again to continue timing from the previously recorded elapsed time.
 
-### Example LCD Output
-
 ```text
